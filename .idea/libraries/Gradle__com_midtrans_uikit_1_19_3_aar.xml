@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.midtrans:uikit:1.19.3@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/uikit-1.19.3.aar/fd17360e4e560f6b6b4fab77c85b9c23/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/uikit-1.19.3.aar/fd17360e4e560f6b6b4fab77c85b9c23/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/uikit-1.19.3.aar/fd17360e4e560f6b6b4fab77c85b9c23/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
